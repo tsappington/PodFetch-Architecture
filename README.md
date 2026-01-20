@@ -1,7 +1,7 @@
 # PodFetch: Enterprise Podcast Archival System
 
-**Role:** Lead Software Architect
-**Status:** Proprietary / Closed Source
+- **Role:** Lead Software Architect
+- **Status:** Proprietary / Closed Source
 
 ---
 
